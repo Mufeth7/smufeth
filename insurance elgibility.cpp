@@ -20,7 +20,7 @@ int main()
             {
                 cout<<"you are elgible for insurance";
             }
-           // cout<<"you are not elgible for insurance";
+      
         }
         else if(b=='f'||b=='F')
         {
@@ -28,7 +28,7 @@ int main()
             {
                 cout<<"you are elgible for insurance";
             }
-           // cout<<"you are not elgible for insurance";
+         
         }
     else
     {
